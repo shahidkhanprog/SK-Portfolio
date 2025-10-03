@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<< HEAD
 My Project 
 
 This is my personal project built with React, Vite, TypeScript, Tailwind CSS, and shadcn-ui.
@@ -9,4 +9,4 @@ SK Portfolio is a modern, interactive web portfolio showcasing projects, service
 
 Check it out here: [https://skhan-portfolio.vercel.app/]
 
->>>>>>
+>>>
